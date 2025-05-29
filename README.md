@@ -11,8 +11,8 @@
   <h2>🚀 About Me</h2>
   <ul>
     <li>Strong analytical and problem-solving mindset</li>
-    <li>Experienced with <strong>Node.js, React, C#, ASP.NET, SQL</strong>, and <strong>MongoDB</strong></li>
-    <li>Recently worked on <strong>CRUD applications</strong>, <strong>.NET Razor Pages</strong>, and <strong>SQL-based data management</strong></li>
+    <li>Experienced with <strong>Node.js, React, C#, ASP.NET, SQL</strong>, <strong>MongoDB</strong> and <strong>Python</strong></li>
+    <li>Worked on <strong>CRUD applications</strong>, <strong>.NET Razor Pages</strong>, <strong>SQL management tools</strong>, and <strong>Notion-connected automation</strong></li>
     <li>Thrive both in collaborative environments and solo projects</li>
     <li>Quality-driven, performance-focused, and result-oriented</li>
     <li>Always learning and exploring new technologies 🔥</li>
@@ -22,10 +22,10 @@
 <section>
   <h2>🧰 Tech Stack & Skills</h2>
   <ul>
-    <li><strong>Back-end:</strong> Node.js, Express, C#, ASP.NET, SQL Server, MongoDB</li>
+    <li><strong>Back-end:</strong> Node.js, Express, C#, ASP.NET, Python, SQL Server, MongoDB</li>
     <li><strong>Front-end:</strong> React, HTML/CSS, JavaScript, Razor Pages</li>
     <li><strong>CMS / WordPress:</strong> PHP, ACF, WooCommerce</li>
-    <li><strong>Dev Tools:</strong> Git, GitHub, REST APIs, Postman</li>
+    <li><strong>Dev Tools:</strong> Git, GitHub, REST APIs, Postman, Notion API</li>
     <li><strong>SEO & Growth:</strong> On-page/off-page SEO, Google Ads, Facebook Ads</li>
     <li><strong>Creative Tools:</strong> Photoshop, After Effects, Final Cut Pro</li>
   </ul>
@@ -41,6 +41,10 @@
     <li>
       <strong>📝 To-Do List App (.NET Razor Pages)</strong><br>
       Built a to-do list application using C# and Razor Pages — simple, clean UI with task addition and deletion logic, and persistent storage.
+    </li>
+    <li>
+      <strong>📈 Productivity Dashboard with Notion API (Python)</strong><br>
+      Personal task manager connected to Notion. Includes automation scripts to sync tasks, deadlines, and habits. Visual dashboard built with Python (Plotly/Dash) to track focus time, completed tasks, and productivity trends.
     </li>
     <li>
       <strong>🔧 Node.js REST API – “Blip.me”</strong><br>
