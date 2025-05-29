@@ -1,5 +1,65 @@
 # 💫 About Me:
-Software Developer with strong analytical and problem-solving skills<br><br>Passionate about creating cutting-edge solutions and optimizing performance<br><br>Driven, highly organized, and thrives under tight deadlines <br><br>Loves working with teams to bring bold ideas to life<br><br>Always ready to explore new technologies and keep learning 🔥<br><br>Focused on delivering top-notch results and ensuring project success 🎯<br><br>MERN Stack <br>SEO Optimization <br>Google Ads & Facebook Ads <br>Photoshop & After Effects - Final Cut Pro
+<section>
+  <h1>💻 Software Developer | MERN Stack | C# & ASP.NET | SEO & Growth Hacking</h1>
+  <p>
+    Full Stack Developer passionate about solving complex problems and building efficient, scalable solutions. 
+    I blend technical skills with digital marketing and creative tools to deliver impactful and well-optimized projects.
+  </p>
+</section>
+
+<section>
+  <h2>🚀 About Me</h2>
+  <ul>
+    <li>Strong analytical and problem-solving mindset</li>
+    <li>Experienced with <strong>Node.js, React, C#, ASP.NET, SQL</strong>, and <strong>MongoDB</strong></li>
+    <li>Recently worked on <strong>CRUD applications</strong>, <strong>.NET Razor Pages</strong>, and <strong>SQL-based data management</strong></li>
+    <li>Thrive both in collaborative environments and solo projects</li>
+    <li>Quality-driven, performance-focused, and result-oriented</li>
+    <li>Always learning and exploring new technologies 🔥</li>
+  </ul>
+</section>
+
+<section>
+  <h2>🧰 Tech Stack & Skills</h2>
+  <ul>
+    <li><strong>Back-end:</strong> Node.js, Express, C#, ASP.NET, SQL Server, MongoDB</li>
+    <li><strong>Front-end:</strong> React, HTML/CSS, JavaScript, Razor Pages</li>
+    <li><strong>CMS / WordPress:</strong> PHP, ACF, WooCommerce</li>
+    <li><strong>Dev Tools:</strong> Git, GitHub, REST APIs, Postman</li>
+    <li><strong>SEO & Growth:</strong> On-page/off-page SEO, Google Ads, Facebook Ads</li>
+    <li><strong>Creative Tools:</strong> Photoshop, After Effects, Final Cut Pro</li>
+  </ul>
+</section>
+
+<section>
+  <h2>📂 Recent Projects</h2>
+  <ul>
+    <li>
+      <strong>📚 Book Library App (SQL + PHP Forms)</strong><br>
+      Created a book management system with SQL and PHP: add, edit, and delete books using forms, with full CRUD functionality and secure database interactions.
+    </li>
+    <li>
+      <strong>📝 To-Do List App (.NET Razor Pages)</strong><br>
+      Built a to-do list application using C# and Razor Pages — simple, clean UI with task addition and deletion logic, and persistent storage.
+    </li>
+    <li>
+      <strong>🔧 Node.js REST API – “Blip.me”</strong><br>
+      Back-end of a MERN stack app to manage incident reports in apartment buildings. Features: MongoDB, JWT auth, role-based access.
+    </li>
+    <li>
+      <strong>🌐 SEO & Google Ads Optimization for Insurance Sites</strong><br>
+      Refactored WordPress-based insurance websites for better SEO and UX. Set up GTM tracking and improved Google Ads campaigns with 85% lower cost-per-conversion.
+    </li>
+  </ul>
+</section>
+
+<section>
+  <h2>📫 Get in Touch</h2>
+  <p>
+    Feel free to connect or reach out — I’m always happy to talk about dev work, projects, or just brainstorm bold new ideas.
+  </p>
+</section>
+
 
 
 ## 🌐 Socials:
